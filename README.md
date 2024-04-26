@@ -80,6 +80,9 @@ video or account  will not displayed in Russia  fyp
 ![Screenshot_20240426_195440_Virtual Master](https://github.com/ideaax/Tiktok-Locations-Changer/assets/157411366/bcd412d3-29db-43aa-9dce-91e00cc40ded)
 ![Screenshot_20240426_195455_Virtual Master](https://github.com/ideaax/Tiktok-Locations-Changer/assets/157411366/d4e5f186-f0f1-4510-acfc-7b1b036f8672)
 ![Screenshot_20240426_195510_Virtual Master](https://github.com/ideaax/Tiktok-Locations-Changer/assets/157411366/60c1a199-5f19-483c-8cb2-6a5a6b72c872)
+![Es](https://github.com/ideaax/Tiktok-Locations-Changer/assets/157411366/dbebfd53-a971-40db-8265-9f334d81fa69)
+![browserling-screenshot (1)](https://github.com/ideaax/Tiktok-Locations-Changer/assets/157411366/59d61c72-3003-4fa0-8564-0b2832d8dd85)
+![Tiktok](https://github.com/ideaax/Tiktok-Locations-Changer/assets/157411366/5a6f6047-4b7b-47d5-af5e-a4a35a6dded0)
 
 # Disclaimer
 This script is provided for educational purposes only. Use responsibly and at your own risk. The use of proxy or vpn ip may violate TikTok's terms of service and could result in account  banned. 
