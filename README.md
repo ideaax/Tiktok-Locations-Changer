@@ -4,6 +4,7 @@ This repository contains scripts to change the location of TikTok accounts using
 
 # Requirements
 * Virtual Master (VM) - Android clone or another similar app
+https://play.google.com/store/apps/details?id=com.clone.android.dual.space
 * Python IMSI generator
 * OpenVPN or another VPN
 * PC or Termux for running the Python IMSI generator
