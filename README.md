@@ -4,7 +4,9 @@ This repository contains scripts to change the location of TikTok accounts using
 
 # Requirements
 * Virtual Master (VM) - Android clone or another similar app
+```
 https://play.google.com/store/apps/details?id=com.clone.android.dual.space
+```
 * Python IMSI generator
 * OpenVPN or another VPN
 * PC or Termux for running the Python IMSI generator
@@ -13,13 +15,17 @@ https://play.google.com/store/apps/details?id=com.clone.android.dual.space
 
 Clone this repository:
 
-https://github.com/ideaax/Tiktok-Locations-Changer.git
+```
+https://github.com/ideaax/Tiktok-Locations-Changer/blob/main/README.md
+```
 
 Set up your virtual emulator with the necessary vpn, ICCID, IMSI, and a new phone number based on your country's requirements.Modify the virtual machine's hardware information according to your country's specifications.
 
-Run  Imsi.py to generate fake details 
+Run ```Python3 imsi.py ```
 
-Open TikTok in the virtual emulator for all changes 
+to generate fake details 
+
+Open TikTok in the virtual emulator to see magic 
 
 ## Supported Countries
 * Japan 
