@@ -16,7 +16,7 @@ https://play.google.com/store/apps/details?id=com.clone.android.dual.space
 Clone this repository:
 
 ```
-https://github.com/ideaax/Tiktok-Locations-Changer/blob/main/README.md
+https://github.com/ideaax/Tiktok-Locations-Changer.git
 ```
 
 Set up your virtual emulator with the necessary vpn, ICCID, IMSI, and a new phone number based on your country's requirements.Modify the virtual machine's hardware information according to your country's specifications.
